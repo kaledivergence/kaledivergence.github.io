@@ -7,7 +7,7 @@ tags: about
 
 A blog that follows interesting research done in the field of machine learning.
 
-Contributors:
+## Contributors:
 
 * Charlie Hou
 * [Hrishikesh Khandeparkar](http://www.cs.princeton.edu/~hrk/)
