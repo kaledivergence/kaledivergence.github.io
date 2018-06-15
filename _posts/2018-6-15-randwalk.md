@@ -5,7 +5,7 @@ author: Gene Li
 tags: nlp
 ---
 
-In post, I will discuss a paper published by Arora et al. in 2015, titled [RAND-WALK: A Latent Variable Model Approach to Word Embeddings][1]. This paper is interesting because the authors provide a generative model that explains the success of word embedding algorithms that are popular in practice: [pointwise mutual information (PMI)][2], [word2vec][3], and [GloVe][4].
+In this post, I will discuss a paper published by Arora et al. in 2015, titled [RAND-WALK: A Latent Variable Model Approach to Word Embeddings][1]. This paper is interesting because the authors provide a generative model that explains the success of word embedding algorithms that are popular in practice: [pointwise mutual information (PMI)][2], [word2vec][3], and [GloVe][4].
 
 ## A Crash Course in Word Embeddings
 
